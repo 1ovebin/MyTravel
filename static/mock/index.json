@@ -1,0 +1,280 @@
+{
+  "ret": true, 
+  "data": {
+    "city": "济南", 
+    "swiperList": [
+      {
+        "id": "001", 
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1809/31/da037478f37cf202.jpg_750x200_a02cf862.jpg"
+      }, 
+      {
+        "id": "002", 
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1809/c6/2467595fffc3b302.jpg_750x200_cca13d51.jpg"
+      }, 
+      {
+        "id": "003", 
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1809/ff/1bf7d3a4f6591002.jpg_750x200_40809f2a.jpg"
+      }, 
+      {
+        "id": "004", 
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1809/82/c94c9a77de17f902.jpg_750x200_a8419488.jpg"
+      }, 
+      {
+        "id": "005", 
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1809/47/7599053a2cb2ee02.jpg_750x200_c61be0c1.jpg"
+      }, 
+      {
+        "id": "006", 
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1809/86/deb33800de224c02.jpg_750x200_74fb795e.jpg"
+      }, 
+      {
+        "id": "007", 
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1609/16/bee89c87307a3302.jpg_750x200_2c6299b9.jpg"
+      }, 
+      {
+        "id": "008", 
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1609/93/21c8367ac43c4f02.jpg_750x200_2db582a3.jpg"
+      }
+    ], 
+    "iconsList": [
+      {
+        "id": "001", 
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/95/f3dd6c383aeb3b02.png", 
+        "desc": "景点门票"
+      }, 
+      {
+        "id": "002", 
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/ff/fdf170ee89594b02.png", 
+        "desc": "济南必游"
+      }, 
+      {
+        "id": "003", 
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/96/c70f1e85ae4a4f02.png", 
+        "desc": "自然风光"
+      }, 
+      {
+        "id": "004", 
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1804/5a/13ceb38dcf262f02.png", 
+        "desc": "一日游"
+      }, 
+      {
+        "id": "005", 
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/ee/5114069893722102.png", 
+        "desc": "游山玩水"
+      }, 
+      {
+        "id": "006", 
+        "imgUrl": "https://img1.qunarzz.com/piao/fusion/1803/20/831d62d2e1c7be02.png", 
+        "desc": "打卡圣地"
+      }, 
+      {
+        "id": "007", 
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/20/831d62d2e1c7be02.png", 
+        "desc": "名胜古迹"
+      }, 
+      {
+        "id": "008", 
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/20/831d62d2e1c7be02.png", 
+        "desc": "趵突泉"
+      }, 
+      {
+        "id": "009", 
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/47/c2b659e048b11602.png", 
+        "desc": "济南动物园"
+      }, 
+      {
+        "id": "010", 
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1803/80/416c6ab3368d1f02.png", 
+        "desc": "全部玩乐"
+      }
+    ], 
+    "specList": [
+      {
+        "id": "001", 
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1806/29/30427c0e0658b502.png"
+      }, 
+      {
+        "id": "002", 
+        "imgUrl": "http://img1.qunarzz.com/piao/fusion/1809/b7/00000ce26b312902.png"
+      }
+    ], 
+    "hotList": [
+      {
+        "id": "001", 
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1505/da/da7c46e2eef8714e.water.jpg_150x150_9d68017e.jpg", 
+        "topUrl": "http://img1.qunarzz.com/piao/fusion/1710/ab/159673b63e6ca702.png", 
+        "hotTitle": "千佛山", 
+        "hotPrice": "27"
+      }, 
+      {
+        "id": "002", 
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1411/20/127428acf46f1d895892b642c7431e95.water.jpg_150x150_3aa57f08.jpg", 
+        "topUrl": "http://img1.qunarzz.com/piao/fusion/1710/2d/36d0c4adaebbbc02.png", 
+        "hotTitle": "济南动物园", 
+        "hotPrice": "12"
+      }, 
+      {
+        "id": "003", 
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1606/23/237ad24ea960b2f290.water.jpg_150x150_0edca2ac.jpg", 
+        "topUrl": "http://img1.qunarzz.com/piao/fusion/1710/67/edc47ffef9e96b02.png", 
+        "hotTitle": "趵突泉公园", 
+        "hotPrice": "27"
+      }, 
+      {
+        "id": "004", 
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/201408/04/2658d1395f6f4208dd5af222f14343b1.jpg_150x150_b1afd384.jpg", 
+        "hotTitle": "天下第一泉风景区", 
+        "hotPrice": "27"
+      }, 
+      {
+        "id": "005", 
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1509/c8/c83acfe52c8ac21e.img.jpg_150x150_76923fbe.jpg", 
+        "hotTitle": "黄金谷山水画廊", 
+        "hotPrice": "26"
+      }, 
+      {
+        "id": "006", 
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1510/47/473918de21ed3d6b90.water.jpg_150x150_ebf610e6.jpg", 
+        "hotTitle": "济南野生动物世界", 
+        "hotPrice": "27"
+      }, 
+      {
+        "id": "007", 
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1610/f9/f90e75166d28d4a9a3.img.jpg_150x150_99c2bb1d.jpg", 
+        "hotTitle": "红叶谷生态文化旅游区", 
+        "hotPrice": "184"
+      }, 
+      {
+        "id": "008", 
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1806/59/59272af498a5019ca3.img.jpg_150x150_d1ef607a.jpg", 
+        "hotTitle": "九如山风景区", 
+        "hotPrice": "110"
+      }, 
+      {
+        "id": "009", 
+        "imgUrl": "http://img1.qunarzz.com/sight/201405/27/4e1c7943ceb94759c8d65eac.jpg_150x150_1b5d04b2.jpg", 
+        "hotTitle": "大明湖", 
+        "hotPrice": "27"
+      }, 
+      {
+        "id": "010", 
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1607/c8/c8fa052a53e569c3b4.img.jpg_150x150_afcafeef.jpg", 
+        "hotTitle": "济南方特东方神画", 
+        "hotPrice": "260"
+      }
+    ], 
+    "recoList": [
+      {
+        "id": "001", 
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1607/c8/c8fa052a53e569c3b4.img.jpg_200x200_6a28d20a.jpg", 
+        "imgBg": "https://img1.qunarzz.com/piao/fusion/1802/52/b9080e45b69b4f02.png", 
+        "reTag": "可定明日", 
+        "reTitle": "济南方特东方神画", 
+        "Evaluate": "98%", 
+        "reCommentNum": "3482", 
+        "rePrice": "260", 
+        "reAddress": "槐荫区", 
+        "reEllipsis": "这里最近很火哦，好多人都在点评它呢！"
+      }, 
+      {
+        "id": "002", 
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1610/f9/f90e75166d28d4a9a3.img.jpg_200x200_d7f84fbf.jpg", 
+        "imgBg": "https://img1.qunarzz.com/piao/fusion/1802/20/2ba6d10b17972e02.png", 
+        "reTag": "随买随用", 
+        "reTitle": "红叶谷生态文化旅游区", 
+        "Evaluate": "94%", 
+        "reCommentNum": "1505", 
+        "rePrice": "184", 
+        "reAddress": "历城区"
+      }, 
+      {
+        "id": "003", 
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1705/2e/2e973f0d092f88b7a3.img.jpg_200x200_270d57b1.jpg", 
+        "reTitle": "园博园欢乐世界", 
+        "Evaluate": "100%", 
+        "reCommentNum": "66", 
+        "rePrice": "98", 
+        "reAddress": "长清区", 
+        "reEllipsis": "大黄鸭“游”到济南园博园，停留30余天"
+      }, 
+      {
+        "id": "004", 
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1510/47/473918de21ed3d6b90.water.jpg_200x200_f6e4f983.jpg", 
+        "imgBg": "https://img1.qunarzz.com/piao/fusion/1802/20/2ba6d10b17972e02.png", 
+        "reTag": "随买随用", 
+        "reTitle": "济南野生动物世界", 
+        "Evaluate": "98%", 
+        "reCommentNum": "2640", 
+        "rePrice": "27", 
+        "reAddress": "章区市"
+      }, 
+      {
+        "id": "005", 
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1806/59/59272af498a5019ca3.img.jpg_200x200_007e36a6.jpg", 
+        "imgBg": "https://img1.qunarzz.com/piao/fusion/1802/20/2ba6d10b17972e02.png", 
+        "reTag": "随买随用", 
+        "reTitle": "九如山风景区", 
+        "Evaluate": "98%", 
+        "reCommentNum": "2932", 
+        "rePrice": "110", 
+        "reAddress": "历城区", 
+        "reEllipsis": "这里最近很火哦，好多人都在点评它呢！"
+      }, 
+      {
+        "id": "006", 
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1604/d5/d520c2430d3f23f790.img.jpg_200x200_1cee8bf1.jpg", 
+        "imgBg": "https://img1.qunarzz.com/piao/fusion/1802/52/b9080e45b69b4f02.png", 
+        "reTag": "可定明日", 
+        "reTitle": "九顶塔中华民俗欢乐园", 
+        "Evaluate": "98%", 
+        "reCommentNum": "397", 
+        "rePrice": "110", 
+        "reAddress": "历城区"
+      }, 
+      {
+        "id": "007", 
+        "imgUrl": "http://img1.qunarzz.com/sight/p0/1612/83/8336dc771c9653eaa3.water.jpg_200x200_2eb2ca40.jpg", 
+        "imgBg": "https://img1.qunarzz.com/piao/fusion/1802/52/b9080e45b69b4f02.png", 
+        "reTag": "可定明日", 
+        "reTitle": "大明湖海底世界", 
+        "Evaluate": "90%", 
+        "reCommentNum": "75", 
+        "rePrice": "110", 
+        "reAddress": "大明湖", 
+        "reEllipsis": "玉带串名泉，一水连百景"
+      }
+    ], 
+    "weekendList": [
+      {
+        "id": "001", 
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1509/a7/692a1d35e7bf61.jpg_r_640x214_d975e8d6.jpg", 
+        "productName": "济南秋景全打尽", 
+        "productDesc": "那城那河那山影，秋天都给你预备着"
+      }, 
+      {
+        "id": "002", 
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/ef/815eec316c47c4.jpg_r_640x214_5bf7f999.jpg", 
+        "productName": "济南必游TOP10", 
+        "productDesc": "名山古寺，清泉旧巷，就是心中的济南"
+      }, 
+      {
+        "id": "003", 
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/87/b46b43303b585c.jpg_r_640x214_af2aa659.jpg", 
+        "productName": "泉城泉景知多少", 
+        "productDesc": "泉景各异，各有千秋"
+      }, 
+      {
+        "id": "004", 
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1507/c0/972d4ef88051a2.jpg_r_640x214_aac8f120.jpg", 
+        "productName": "亲子游天地", 
+        "productDesc": "周末带宝贝来一场旅行"
+      }, 
+      {
+        "id": "005", 
+        "imgUrl": "http://img1.qunarzz.com/sight/source/1505/94/f48c88a43966be.jpg_r_640x214_629e5387.jpg", 
+        "productName": "博物馆中认识青岛", 
+        "productDesc": "想真正了解青岛，博物馆非去不可"
+      }
+    ]
+  }
+}
