@@ -1,7 +1,7 @@
 <template>
   <div class="home-header">
     <div class="header-left">
-      <div class="iconfont back-icon">&#xe624;</div>
+      <div class="iconfont back-icon" @click="back">&#xe624;</div>
     </div>
     <div class="header-input">
       <span class="iconfont search-icon">&#xe632;</span>
@@ -19,6 +19,11 @@ export default {
   name: 'HomeHeader',
   props: {
     city: String
+  },
+  methods: {
+    back () {
+      this.$router.go(-1)
+    }
   }
 }
 </script>

@@ -6,7 +6,7 @@
       <a class="hot-group-more" href="javascript:void(0)">全部榜单<span class="iconfont hot-group-icon">&#xe6a7;</span></a>
     </div>
     <ul class="hotsale-list">
-      <li class="hotsale-item" v-for="item of hotList" :key="item.id">
+      <router-link tag="li" to="/detail" class="hotsale-item" v-for="item of hotList" :key="item.id">
         <a class="fulllink" href="#">
           <div class="hotsale-tag" v-if="item.topUrl">
             <img :src="item.topUrl">
@@ -19,7 +19,7 @@
             <span class="mpg-price">¥<em class="mpg-price-num">{{item.hotPrice}}</em></span>起
           </div>
         </a>
-      </li>
+      </router-link>
     </ul>
   </div>
 </template>
