@@ -47,9 +47,11 @@ export default {
 <style scoped>
   .icon-container >>> .swiper-container{height: 3.7rem;padding-top: .1rem}
   .icon-container >>> .swiper-pagination-bullet{width: 6px;height: 6px;}
+  .icon-container >>> .swiper-container-horizontal > .swiper-pagination-bullets{bottom: 5px;}
+  .icon-container >>> .swiper-pagination-bullet-active {background: rgba(0,175,190,.8);}
   .icon-container{background: #ffffff;}
-  .icon-items{float: left;width: 25%;height: 1.6rem;overflow: hidden}
+  .icon-items{float: left;width: 25%;height: 1.7rem;overflow: hidden}
   .icon-img{width: 1.1rem;height: 1.1rem;margin: .1rem auto 0;}
   .icon-img-content{width: 100%}
-  .icon-desc{font-size: .28rem;color: #212121;text-align: center}
+  .icon-desc{font-size: .28rem;color: #212121;text-align: center;margin-top: .05rem;}
 </style>

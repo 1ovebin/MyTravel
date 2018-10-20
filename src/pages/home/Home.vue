@@ -7,6 +7,8 @@
     <home-hot-sale :hotList="hotList"></home-hot-sale>
     <home-recommend :recoList="recoList"></home-recommend>
     <home-weekend :weekendList="weekendList"></home-weekend>
+    <home-download></home-download>
+    <home-footer></home-footer>
   </div>
 </template>
 
@@ -18,6 +20,8 @@ import HomeSpecial from '@/pages/home/components/Special'
 import HomeHotSale from '@/pages/home/components/HotSale'
 import HomeRecommend from '@/pages/home/components/Recommend'
 import HomeWeekend from '@/pages/home/components/Weekend'
+import HomeDownload from '@/pages/home/components/Download'
+import HomeFooter from '@/pages/home/components/Footer'
 import axios from 'axios'
 export default {
   name: 'Home',
@@ -28,7 +32,9 @@ export default {
     HomeSpecial,
     HomeHotSale,
     HomeRecommend,
-    HomeWeekend
+    HomeWeekend,
+    HomeDownload,
+    HomeFooter
   },
   data () {
     return {

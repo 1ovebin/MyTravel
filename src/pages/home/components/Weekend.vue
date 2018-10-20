@@ -14,6 +14,10 @@
         </a>
       </li>
     </ul>
+    <div class="price-desc">
+      <span class="iconfont hint-icon">&#xe622;</span>
+      <p class="price-hint-info"><span class="hint-blod">票面价</span>是指通过景区指定窗口售卖的纸质门票上标注的价格</p>
+    </div>
   </div>
 </template>
 
@@ -35,4 +39,8 @@ export default {
   .we-product-info{position: relative;padding: .14rem .2rem .2rem .2rem;}
   .product-name{overflow: hidden;padding-right: 1.4rem;color: #212121;font-size: .28rem;line-height: .48rem;white-space: nowrap;text-overflow: ellipsis;}
   .product-desc{overflow: hidden;padding-right: 1.4rem;color: #616161;font-size: .24rem;line-height: .42rem;white-space: nowrap;text-overflow: ellipsis}
+  .price-desc{margin-top: .1rem;padding: .14rem .1rem;font-size: .24rem;line-height: .32rem;background: #fff;color: #616161;}
+  .hint-icon{width: .24rem;display: block;float: left;line-height: .32rem;font-size: .24rem;color: #616161;}
+  .price-hint-info{margin-left: .3rem;}
+  .hint-blod{font-weight: bold;}
 </style>
