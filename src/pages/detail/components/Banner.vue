@@ -1,5 +1,5 @@
 <template>
-  <div style="height: 75rem;">
+  <div>
     <div class="banner">
       <img class="banner-img" src="//img1.qunarzz.com/sight/p0/1505/da/da7c46e2eef8714e.water.jpg_600x330_0170d359.jpg">
       <div class="banner-info">
