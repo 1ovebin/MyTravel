@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="detail-page">
     <detail-banner></detail-banner>
     <detail-header></detail-header>
     <detail-baseinfo></detail-baseinfo>
@@ -21,5 +21,5 @@ export default {
 </script>
 
 <style scoped>
-
+  .detail-page{background: #f5f5f5;}
 </style>
