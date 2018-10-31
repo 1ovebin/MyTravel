@@ -17,5 +17,5 @@ export default {
 <style scoped>
   .special-container{width: 100%;margin-top: .2rem;background-color: #fff;}
   .special-item{float: left;box-sizing: border-box;width: 50%;height: 1.4rem;line-height: 1.4rem;background-repeat: no-repeat;background-position: center center;background-size: auto 100%}
-  .item-border-right{border-right: 1px solid #F5F5F5}
+  .item-border-right{border-right: 1px solid #F5F5F5;}
 </style>

@@ -52,6 +52,46 @@ export default {
         {
           id: 1,
           imgUrl: 'http://img1.qunarzz.com/sight/p0/1411/c7/0c38235ff16c8547d539cdf196e09101.water.jpg_r_800x800_a7dc38ec.jpg'
+        },
+        {
+          id: 2,
+          imgUrl: 'http://img1.qunarzz.com/sight/p0/1411/ba/85805f786ced6ecd5e6376e37f71ecdd.water.jpg_r_800x800_505447b1.jpg'
+        },
+        {
+          id: 3,
+          imgUrl: 'http://img1.qunarzz.com/sight/p0/201405/22/eb5e3869e646c287127f07271b615014.jpg_r_800x800_58337701.jpg'
+        },
+        {
+          id: 4,
+          imgUrl: 'http://img1.qunarzz.com/sight/p0/201307/22/0d85672feb4cea05c8d65eac.jpg_r_800x800_ab5c2b01.jpg'
+        },
+        {
+          id: 5,
+          imgUrl: 'http://img1.qunarzz.com/sight/p0/201405/22/4f77d372ab47b77eea2605e8db34119e.jpg_r_800x800_b95525d9.jpg'
+        },
+        {
+          id: 6,
+          imgUrl: 'http://img1.qunarzz.com/sight/p0/1508/8d/ca6b34f5184fc40897e0896f61910b68.water.jpg_r_800x800_374247a2.jpg'
+        },
+        {
+          id: 7,
+          imgUrl: 'http://img1.qunarzz.com/sight/p0/1508/cc/a00e22eafcf3265a5d9b3aecd1e4a440.water.jpg_r_800x800_5d808ec5.jpg'
+        },
+        {
+          id: 8,
+          imgUrl: 'http://img1.qunarzz.com/sight/p0/1508/59/67aee992a0c0789d4cc931130e260533.water.jpg_r_800x800_8fb2aea7.jpg'
+        },
+        {
+          id: 9,
+          imgUrl: 'http://img1.qunarzz.com/sight/p0/1508/96/4944b33f82b3984cbeec46e139ffbe95.water.jpg_r_800x800_6540aa03.jpg'
+        },
+        {
+          id: 10,
+          imgUrl: 'http://img1.qunarzz.com/sight/p0/1508/eb/9c04475b89a9ce068e3550abe4d7d38b.water.jpg_r_800x800_618a97fc.jpg'
+        },
+        {
+          id: 11,
+          imgUrl: 'http://img1.qunarzz.com/sight/p0/1508/83/6b5cbc50a06106682f66049cbf1e1b10.water.jpg_r_800x800_1293ee70.jpg'
         }
       ]
     }
@@ -78,7 +118,7 @@ export default {
 
 <style scoped>
   .imgSwiper-container >>> .swiper-container{overflow: inherit}
-  .gallery-container{position: absolute;top: 0;left: 0;width: 100%;min-height: 100%;background: #f5f5f5;}
+  .gallery-container{position: absolute;top: 0;left: 0;width: 100%;min-height: 100%;background: #f5f5f5;z-index: 999;}
   .gallery-header{position: fixed;width: 100%;height: .88rem;background: #fff;z-index: 91;border-bottom: 1px solid #e0e0e0;}
   .gallery-title{overflow: hidden;margin: 0 1rem;line-height: .88rem;white-space: nowrap;text-overflow: ellipsis;font-size: .32rem;text-align: center;color: #333;}
   .back-icon{position: absolute;left: 0;top: 0;width: .8rem;height: .88rem;line-height: .88rem;font-size: .4rem;color: #333;text-align: center;font-weight: bold;}

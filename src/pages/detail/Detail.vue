@@ -3,19 +3,22 @@
     <detail-banner></detail-banner>
     <detail-header></detail-header>
     <detail-baseinfo></detail-baseinfo>
+    <detail-recommend></detail-recommend>
   </div>
 </template>
 
 <script>
+import detailHeader from '@/pages/detail/components/Header'
 import detailBanner from '@/pages/detail/components/Banner'
 import detailBaseinfo from '@/pages/detail/components/Baseinfo'
-import detailHeader from '@/pages/detail/components/Header'
+import detailRecommend from '@/pages/detail/components/Recommend'
 export default {
   name: 'detail',
   components: {
     detailBanner,
     detailHeader,
-    detailBaseinfo
+    detailBaseinfo,
+    detailRecommend
   }
 }
 </script>
